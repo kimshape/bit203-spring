@@ -27,4 +27,6 @@
 <fullyQualifiedTypeName name="org.springframework.beans.factory.xml.XmlBeanFactory"/>
 <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
 <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="x.y.service.OutputService"/>
+<fullyQualifiedTypeName name="x.y.impl.GreetingServiceImpl"/>
 </qualifiedTypeNameHistroy>
