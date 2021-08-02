@@ -97,22 +97,6 @@
 	<beans:bean class="x.y.p36.Bar" id="barScopeSingle"/>
 	<beans:bean class="x.y.p36.Bar" id="barScopeProt" scope="prototype"/>
 	
-	<!-- P50 -->
-	<beans:bean id="greeting" class="x.y.impl.GreetingServiceImpl" autowire="byName"/>
-	<beans:bean id="outputter" class="x.y.impl.OutputServiceImplConsole"/>
-
-	<!-- P51 -->
-	<beans:bean id="greeting" class="x.y.impl.GreetingServiceImpl" autowire="byType"/>
-	<beans:bean id="consoleOutput" class="x.y.impl.OutputServiceImplConsole"/>
-	
-	<!-- P52 -->
-	<beans:bean id="greeting2" class="x.y.impl.GreetingServiceImpl2" autowire="constructor"/>
-	<beans:bean id="consoleOutput" class="x.y.impl.OutputServiceImplConsole"/>
-	
-	<!-- P53 -->
-	<beans:bean id="greeting2" class="x.y.impl.GreetingServiceImpl2" autowire="autodetect"/>
-	<beans:bean id="consoleOutput" class="x.y.impl.OutputServiceImplConsole"/>
-	
 </beans:beans>
 
 

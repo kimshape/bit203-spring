@@ -1,17 +1,10 @@
 package x.y.impl;
 
 import x.y.service.GreetingService;
-import x.y.service.OutputService;
 
 public class GreetingServiceImpl implements GreetingService {
 	private String greeting;
 	private int loopCount;
-	private OutputService outputter;
-	
-	public void setOutputter(OutputService outputter) {
-		this.outputter = outputter;
-	}
-	
 	public GreetingServiceImpl() {
 		// TODO Auto-generated constructor stub
 	}

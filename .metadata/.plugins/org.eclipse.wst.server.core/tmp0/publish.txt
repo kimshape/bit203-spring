@@ -1,3 +1,4 @@
 #Tomcat publish data
-#Wed Jul 28 17:03:30 KST 2021
+#Mon Aug 02 18:40:51 KST 2021
 org.eclipse.jst.jee.server\:HelloSpring=C\:\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\HelloSpring
+org.eclipse.jst.jee.server\:DebugTest=C\:\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\DebugTest
