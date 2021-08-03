@@ -17,7 +17,6 @@
 <fullyQualifiedTypeName name="org.springframework.beans.factory.ListableBeanFactory"/>
 <fullyQualifiedTypeName name="org.eclipse.jdt.internal.compiler.codegen.ObjectCache"/>
 <fullyQualifiedTypeName name="x.y.p46.CalculatorService"/>
-<fullyQualifiedTypeName name="java.awt.List"/>
 <fullyQualifiedTypeName name="java.util.Properties"/>
 <fullyQualifiedTypeName name="java.lang.Object"/>
 <fullyQualifiedTypeName name="org.apache.catalina.core.ApplicationContext"/>
@@ -44,4 +43,10 @@
 <fullyQualifiedTypeName name="java.sql.ResultSet"/>
 <fullyQualifiedTypeName name="com.bit.spring.vo.Member"/>
 <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="com.bit.spring.model.template.vo.Member"/>
+<fullyQualifiedTypeName name="com.bit.spring.model.template.dao.MemberDAO"/>
+<fullyQualifiedTypeName name="org.springframework.dao.support.DaoSupport"/>
+<fullyQualifiedTypeName name="com.bit.spring.model.template.dao.MemberDao"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 </qualifiedTypeNameHistroy>

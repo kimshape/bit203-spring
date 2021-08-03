@@ -1,0 +1,30 @@
+package 정리
+   dao
+   vo 
+  
+  model
+    jdbc
+       dao
+       vo  옮겨놓을것임
+    template
+       dao
+       vo (dto)
+    orm
+       dao  , mapper
+       vo
+              
+/////////////////////
+
+               사용자목록
+인덱스 번호    아이디     이름   나이   이메일 
+
+
+
+
+
+
+
+
+
+
+        
