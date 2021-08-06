@@ -20,7 +20,10 @@ public class MemberDaoImpl  extends JdbcDaoSupport implements MemberDao {
 		
 		return memberList;
 	}
-
+	// logincheck 
+	// member insert
+	// delete
+	
 }
 
 

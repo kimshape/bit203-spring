@@ -1,8 +1,0 @@
-package x.y.p36;
-
-public class Baz {
-	public Baz() {
-		System.out.println(getClass().getName());
-		
-	}
-}
